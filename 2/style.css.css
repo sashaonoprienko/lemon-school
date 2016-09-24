@@ -1,0 +1,36 @@
+ article {
+      text-align: center;
+    }
+    h1 {
+      color: crimson;
+    }
+
+    span {
+      text-decoration: underline;
+      color: darkblue;
+    }
+    img {
+      width: 300px;
+      border: 4px double #f0f;
+    }
+    figcaption {
+      font-size: 1.2em;
+    }
+    p.left {
+      text-align: left;
+      border-left: 4px dashed blueviolet;
+    }
+    ol {
+      text-align: left;
+      font-size: 1.2em;
+      color: darkgreen;
+    }
+    a {
+      color: darkgreen;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+    footer {
+      border-bottom: 2px dashed #000;
+    }
