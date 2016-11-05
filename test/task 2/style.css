@@ -1,0 +1,14 @@
+.header {
+	background: black;
+	color: #FFFFFF;
+}
+table {
+border-collapse: collapse;
+}
+th {
+	border: 1px solid black;
+}
+td {
+	border: 1px solid black;
+	vertical-align: top;
+}
